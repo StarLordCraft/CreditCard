@@ -1,0 +1,10 @@
+VISA 
+iniciacom 4 seguido de mais 15 digitos.
+
+MASTERCARD
+inicia com 5 seguido de um digito entre 1 e 5 seguido de mais 2 digitos 
+OU 
+inicia com 22 seguido de um digito entre 2 e 9 seguido de mais 1 digito
+OU
+inicia com 2 seguido de um digito entre 3 e 7 seguido de mais 2 digitos
+seguido de mais 12 digitos
